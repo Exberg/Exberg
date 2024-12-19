@@ -16,5 +16,5 @@ console.log("To me in 2030, never give up, never give down, never...");
 ```
 
 ✍🏻 My Previous Writeups
-[Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md)
-[Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md)
+- [Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md)
+- [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md)
