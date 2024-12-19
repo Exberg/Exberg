@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, Patrick here!
 
-<!--
-**Exberg/Exberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const aboutMe = {
+  education: "UTM Computer Network & Security",
+  ctf-skills: "Cryptography, Web Exploitation, OSINT",
+  tech-skills: ["React.js", "Next.js", "Solidity", "Blockchain"],
+  focus: "CTF is ma main focus now!",
+  projects: ["Verurid, Busnado"],
+  mission: "Try to survive in world war 3"
+};
 
-Here are some ideas to get you started:
+console.log("To me in 2030, never give up, never give down, never...");
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏻 My Previous Writeups
+[google-beginner](/)
