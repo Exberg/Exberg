@@ -1,6 +1,6 @@
 ## Hi, Patrick here!
 
-beginner hacccer based in MY
+beginner haccer based in MY
 
 ```js
 const aboutMe = {
