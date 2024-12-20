@@ -7,7 +7,7 @@ beginner haccer based in MY
 ```js
 const aboutMe = {
   education: "UTM Computer Network & Security",
-  ctf-skills: "Cryptography, Web Exploitation, OSINT",
+  ctf-skills: "[Cryptography, Web Exploitation, OSINT"],
   tech-skills: ["React.js", "Next.js", "Solidity", "Blockchain"],
   focus: "CTF is ma main focus now!",
   projects: ["VerurID, Busnado"],
