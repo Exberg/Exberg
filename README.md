@@ -19,3 +19,7 @@ console.log("maybe the rarest Pepe is the friends we made along the way");
 ✍🏻 My Previous Writeups
 
 [CyberX-CTF](https://github.com/Exberg/ctf-writeups/blob/main/cyberx-ctf.md) | [Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md) | [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/pico-ctf.md)
+
+---
+
+![snake gif](https://github.com/Exberg/Exberg/blob/output/github-snake-dark.svg)
