@@ -1,7 +1,7 @@
 # Hi, Patrick here!
-Active Member `009` in `CyberX`
+### Active Member `009` in `CyberX`
 
-beginner haccer based in `MY`
+### Beginner haccer based in `MY`
 
 ```js
 const aboutMe = {
@@ -16,9 +16,9 @@ const aboutMe = {
 console.log("maybe the rarest Pepe is the friends we made along the way");
 ```
 
-✍🏻 My Previous Writeups
+#### ✍🏻 My Previous Writeups
 
-[CyberX-CTF](https://github.com/Exberg/ctf-writeups/blob/main/cyberx-ctf.md) | [Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md) | [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/pico-ctf.md)
+#### [CyberX-CTF](https://github.com/Exberg/ctf-writeups/blob/main/cyberx-ctf.md) | [Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md) | [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/pico-ctf.md)
 
 ---
 
