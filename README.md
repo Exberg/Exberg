@@ -22,4 +22,6 @@ console.log("maybe the rarest Pepe is the friends we made along the way");
 
 ---
 
+Haha, what is snake doing here in my repo?
+
 ![snake gif](https://github.com/Exberg/Exberg/blob/output/github-snake-dark.svg)
