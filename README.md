@@ -18,7 +18,10 @@ console.log("maybe the rarest Pepe is the friends we made along the way");
 
 #### ✍🏻 My Previous Writeups
 
-#### [CyberX{CTF}](https://github.com/Exberg/ctf-writeups/tree/main/CyberX_CTF/cyberx-ctf.md) | [Google-Beginners_Quest](https://github.com/Exberg/ctf-writeups/blob/main/google-beginners_quest/google-beginners_quest.md) | [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/pico-ctf/pico-ctf.md)
+#### [CSLU{A1M05T_Go1_F14g}](https://bakayang.vercel.app/posts/cslu-2024)
+#### [CyberX{Ch4mp10n}](https://bakayang.vercel.app/posts/cyberx2024)
+#### [Google-Beginners_Quest](https://bakayang.vercel.app/posts/google-beginners_quest)
+#### [Pico-CTF](https://github.com/Exberg/ctf-writeups/blob/main/pico-ctf/pico-ctf.md)
 
 ---
 
