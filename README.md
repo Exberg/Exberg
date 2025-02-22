@@ -1,5 +1,5 @@
 # Hi, Patrick Yee Ching Yang here!
-### Active Member `009` in `CyberX`
+### Active Member in `CyberX`
 
 ### Beginner haccer based in `MY`
 
